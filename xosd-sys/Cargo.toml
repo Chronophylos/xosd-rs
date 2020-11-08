@@ -1,0 +1,14 @@
+[package]
+name = "xosd-sys"
+version = "2.2.14"
+authors = ["Chronophylos <nikolai@chronophylos.com>"]
+description = "Native bindings to the xosd library"
+links = "xosd"
+edition = "2018"
+keywords = ["xosd", "x11", "ffi"]
+categories = ["external-ffi-bindings"]
+repository = "https://github.com/Chronophylos/xosd-rs"
+documentation = "https://docs.rs/xosd-sys"
+
+[build-dependencies]
+bindgen = "0.55"

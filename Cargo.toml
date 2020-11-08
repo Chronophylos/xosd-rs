@@ -5,5 +5,5 @@ authors = ["Chronophylos <nikolai@chronophylos.com>"]
 edition = "2018"
 
 [dependencies]
-xosd-sys = { path = "xosd-sys" }
+xosd-sys = { path = "xosd-sys", version = "2.2.14" }
 thiserror = "1.0.22"

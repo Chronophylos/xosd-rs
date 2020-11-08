@@ -1,13 +1,15 @@
 [package]
 name = "xosd-rs"
 version = "0.1.0"
-authors = ["Chronophylos <nikolai@chronophylos.com>"]
+authors = ["Chronophylos"]
 edition = "2018"
 license = "MIT"
 description = "Rust bindings to the xosd library"
 repository = "https://github.com/Chronophylos/xosd-rs"
 documentation = "https://docs.rs/xosd-rs"
 
+[workspace]
+members = ["xosd-sys"]
 
 [dependencies]
 xosd-sys = { path = "xosd-sys", version = "2.2.14" }

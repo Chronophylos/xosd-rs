@@ -1,7 +1,7 @@
 [package]
 name = "xosd-sys"
 version = "2.2.14"
-authors = ["Chronophylos <nikolai@chronophylos.com>"]
+authors = ["Chronophylos"]
 description = "Raw bindings to the xosd library"
 links = "xosd"
 edition = "2018"

@@ -9,7 +9,7 @@ keywords = ["xosd", "x11", "ffi"]
 categories = ["external-ffi-bindings"]
 repository = "https://github.com/Chronophylos/xosd-rs"
 documentation = "https://docs.rs/xosd-sys"
-license = "MIT"
+license = "MIT OR Apache-2.0"
 
 [build-dependencies]
 bindgen = "0.55"

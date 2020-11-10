@@ -1,5 +1,5 @@
-![Documentation](https://docs.rs/xosd-rs/badge.svg)
-![crates.io](https://img.shields.io/crates/d/xosd-rs.svg)
+[![Documentation](https://docs.rs/xosd-rs/badge.svg)](https://docs.rs/xosd-rs)
+[![crates.io](https://img.shields.io/crates/d/xosd-rs.svg)](https://crates.io/crates/xosd-rs)
 
 # xosd-rs
 

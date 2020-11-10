@@ -1,5 +1,5 @@
-![https://docs.rs/xosd-rs/badge.svg](Documentation)
-![https://img.shields.io/crates/v/xosd.rs.svg](crates.io)
+![Documentation](https://docs.rs/xosd-rs/badge.svg)
+![crates.io](https://img.shields.io/crates/d/xosd-rs.svg)
 
 # xosd-rs
 
@@ -9,10 +9,10 @@ Rust bindings to the xosd library.
 
 Licensed under either of
 
- * Apache License, Version 2.0
-   ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
- * MIT license
-   ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+-   Apache License, Version 2.0
+    ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+-   MIT license
+    ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
 
 at your option.
 

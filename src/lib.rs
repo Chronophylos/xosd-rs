@@ -27,7 +27,7 @@
 //! ```
 //!
 //! More examples can be found [here](https://github.com/Chronophylos/xosd-rs/tree/main/examples).
-#![doc(html_root_url = "https://docs.rs/xosd-rs/0.1.0")]
+#![doc(html_root_url = "https://docs.rs/xosd-rs/0.2.0")]
 
 use std::{
     borrow::Cow,
